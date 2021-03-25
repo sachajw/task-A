@@ -23,7 +23,7 @@ def bubbleSort(arr):
         if swapped == False:
             break
            
-# Driver code to test above
+# number sequence to test above
 arr = [66, 37, 23, 17, 27, 14, 95]
    
 bubbleSort(arr)
@@ -31,5 +31,3 @@ bubbleSort(arr)
 print ("Sorted array :")
 for i in range(len(arr)):
     print ("%d" %arr[i],end=" ")
-  
-# This code is contributed by Shreyanshi Arun
