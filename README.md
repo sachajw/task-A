@@ -15,9 +15,10 @@ author: Sacha Wharton
 
 # task-A
 
-## Language
-* [Python3](https://www.python.org/)
+## Setup
+* Language [Python3](https://www.python.org/)
 * OS [Ubuntu 20.04](https://ubuntu.com/)
+* IDE [Microsoft VS Code](https://code.visualstudio.com/)
 
 ## Requirements
 * Implement the sort method on a class that performs a bubble sort algorithm on a given, unsorted array, argument.
